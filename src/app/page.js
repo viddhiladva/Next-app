@@ -2,8 +2,9 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      <h1>hello</h1>
+    <main className=" font-extrabold text-9xl">
+      <h1>Viddhi Ladva</h1>
     </main>
   );
 }
+ 
